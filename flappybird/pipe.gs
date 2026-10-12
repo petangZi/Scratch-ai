@@ -1,8 +1,6 @@
 costumes "assets/pipe.svg";
 
 hide;
-set_x 320;
-set_y 0;
 
 var scored = 0;
 var is_clone = 0;
